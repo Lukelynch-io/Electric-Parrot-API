@@ -1,0 +1,27 @@
+{
+  "name": "electric-parrot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukelynch-io/Electric-Parrot-API.git"
+  },
+  "author": "Luke Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukelynch-io/Electric-Parrot-API/issues"
+  },
+  "homepage": "https://github.com/Lukelynch-io/Electric-Parrot-API#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "jest": "^27.5.1"
+  }
+}
